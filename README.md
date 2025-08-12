@@ -114,7 +114,7 @@ This repository contains all the projects, assignments, and learning materials f
 Special thanks to **Oasis Infobyte** for providing this valuable learning opportunity and mentoring throughout the internship period.
 
 ## 📄 License
-This project is Offer Letter - see the [LICENSE](LICENSE) https://drive.google.com/file/d/1Nol-T1W0UqasUnlBDiKX_emqKpke6A-n/view file for details.
+[View Offer Letter](https://drive.google.com/file/d/1Nol-T1W0UqasUnlBDiKX_emqKpke6A-n/view)
 
 ---
 *This repository showcases the practical application of Python programming skills developed during my internship at Oasis Infobyte.*
